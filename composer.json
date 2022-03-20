@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "megabike\\utils\\": "./"
+            "megabike\\forms\\": "./"
         }
     },
     "autoload-dev": {
