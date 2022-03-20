@@ -1,0 +1,33 @@
+{
+    "name": "rick1906/megabike-utils",
+    "type": "library",
+    "description": "Simple forms for CRUD data from db",
+    "keywords": [
+        "crud",
+		"forms"
+    ],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rick",
+            "email": "rick-san@mail.ru",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+		"rick1906/megabike-dbm": "*"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "megabike\\utils\\": "./"
+        }
+    },
+    "autoload-dev": {
+    },
+    "extra": {
+    }
+}
